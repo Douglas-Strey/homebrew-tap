@@ -1,8 +1,8 @@
 class Repolens < Formula
   desc "Understand a repository's stack, services, env vars and setup problems"
   homepage "https://github.com/Douglas-Strey/repolens-cli"
-  url "https://registry.npmjs.org/@douglas-strey/repolens/-/repolens-0.4.0.tgz"
-  sha256 "c6ffc0a0dfe3bc5a816558d759d650572a3b3133541444604b76fa218fa09e22"
+  url "https://registry.npmjs.org/@douglas-strey/repolens/-/repolens-0.5.0.tgz"
+  sha256 "00ac7f648b0a031ed60fe3c3c87b7c6c02dcce6c08527e85fcb60f2fdd17c7ef"
   license "MIT"
 
   depends_on "node"
